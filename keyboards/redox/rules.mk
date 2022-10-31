@@ -24,3 +24,5 @@ DEFAULT_FOLDER = redox/rev1/base
 # Disable unsupported hardware
 AUDIO_SUPPORTED = no
 BACKLIGHT_SUPPORTED = no
+
+# DEBOUNCE_TYPE = sym_eager_pr
